@@ -48,7 +48,6 @@ In future projects, I want to continue refining my skills in CSS layout techniqu
 
 ## Author
 
-- Website - [Saquib Furniturewala](https://www.your-site.com)
 - Frontend Mentor - [SaquibFurniturewala1](https://www.frontendmentor.io/profile/SaquibFurniturewala1)
 
 ## Acknowledgments
